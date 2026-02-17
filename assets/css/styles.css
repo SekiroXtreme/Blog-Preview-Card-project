@@ -92,7 +92,3 @@ body {
   font-family: 'Figtree', sans-serif;
 }
 
-:hover .card-title{
-  color: hsl(47, 88%, 63%);
-  cursor: pointer;
-}
